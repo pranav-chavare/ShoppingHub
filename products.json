@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Wireless Keyboard",
+        "price": 100.0,
+        "quantity": 100,
+        "description": "A high-quality wireless keyboard with a sleek design and responsive keys.",
+        "image_url": "/static/assets/images/products/keyboard.jpg"
+    },
+    {
+        "name": "TV",
+        "price": 5500.0,
+        "quantity": 80,
+        "description": "A 55-inch high-definition television with vibrant colors and smart features.",
+        "image_url": "/static/assets/images/products/tv.jpg"
+    },
+    {
+        "name": "Tab",
+        "price": 20000.0,
+        "quantity": 30,
+        "description": "A versatile tablet with a high-resolution display and long battery life.",
+        "image_url": "/static/assets/images/products/tab.jpg"
+    },
+    {
+        "name": "iPad",
+        "price": 30000.0,
+        "quantity": 80,
+        "description": "A popular tablet known for its user-friendly interface and impressive display.",
+        "image_url": "/static/assets/images/products/ipad.jpg"
+    },
+    {
+        "name": "iPhone",
+        "price": 2500.0,
+        "quantity": 50,
+        "description": "The latest iPhone with cutting-edge technology and an exceptional camera.",
+        "image_url": "/static/assets/images/products/iphone.jpg"
+    }
+]
